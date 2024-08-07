@@ -4,7 +4,7 @@
 - 👀 I’m interested in enhancing efficiency and collaboration within IT operations through DevOps practices.  
 - 🌱 I’m currently learning more about cloud-native technologies and advanced automation techniques.
 - 💞️ I’m looking to collaborate on open-source projects related to DevOps tools and practices.
-- 📫 How to reach me upendrachary839@gmail.com  
+- 📫 How to reach me upiechary124@gmail.com  
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've automated myself out of a job... and into a DevOps role!
 
