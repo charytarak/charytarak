@@ -10,10 +10,10 @@
 
 
 <img align="right" alt="Coding" width="280" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-<h1 align="center">Hi 👋, I'm Hruday</h1>
+<h1 align="center">Hi 👋, I'm Upendrachary</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hruday143&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charytarak&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
 
 
 
@@ -148,12 +148,11 @@
 
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=charytarak&show_icons=true&locale=en&layout=compact" alt="charytarak" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hruday143&show_icons=true&locale=en&layout=compact" alt="Hruday143" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charytarak&show_icons=true&locale=en" alt="charytarak" /></p>a
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hruday143&show_icons=true&locale=en" alt="Hruday143" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hruday143&" alt="Hruday143" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charytrak&" alt="charytarak" /></p>
 
 [![Upendrachary Thatikonda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hruday143&theme=react-dark)](https://github.com/charytarak/github-readme-activity-graph)
 
