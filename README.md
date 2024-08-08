@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Upendrachary</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=charytarak&label=Profile%20views&color=0e75b6&style=flat" alt="Hruday143" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=charytarak&label=Profile%20views&color=0e75b6&style=flat" alt="charytarak" /> </p>
 
 
 
@@ -139,7 +139,7 @@
 
 ## 📫 &nbsp; Connect with me
 
-[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](www.linkedin.com/in/upendrachary-thatikonda)
+[![LinkedIn](https://img.icons8.com/color/96/000000/linkedin.png)](https://www.linkedin.com/in/upendrachary-thatikonda)
 [![Gmail](https://img.icons8.com/color/96/000000/gmail.png)](mailto:upiechary124@gmail.com)
 
 
@@ -154,7 +154,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charytrak&" alt="charytarak" /></p>
 
-[![Upendrachary Thatikonda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hruday143&theme=react-dark)](https://github.com/charytarak/github-readme-activity-graph)
+[![Upendrachary Thatikonda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charytarak&theme=react-dark)](https://github.com/charytarak/github-readme-activity-graph)
 
 
 
