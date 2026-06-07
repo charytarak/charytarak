@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=600&&repeat=true&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+UPENDRACHARY+THATIKONDA;DevOps+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1000&pause=500&color=00E4A9&width=600&&repeat=true&height=70&lines=Hey!;Nice+to+Meet+you...%F0%9F%98%83%09;I'm+UPENDRACHARY+THATIKONDA;Software Engineer)](https://git.io/typing-svg)
 
 [![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
 
